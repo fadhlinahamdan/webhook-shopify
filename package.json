@@ -1,0 +1,26 @@
+{
+  "name": "webhook-shopify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@shopify/koa-shopify-auth": "^4.1.4",
+    "@shopify/koa-shopify-webhooks": "^4.0.2",
+    "aws-serverless-koa": "^1.0.2",
+    "isomorphic-fetch": "^3.0.0",
+    "koa": "^2.13.1",
+    "koa-session": "^6.2.0",
+    "ngrok": "^4.1.0",
+    "serverless": "^2.56.0",
+    "serverless-offline": "^8.0.0",
+    "serverless-webpack": "^5.5.2",
+    "webpack": "^5.51.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
